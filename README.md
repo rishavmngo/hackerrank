@@ -1,2 +1,2 @@
-I solve the python section
-currently i am 5 points away from four start
+I solve the python section on Hacker Rank
+in this ponit I am 4 Start in python
